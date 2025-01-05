@@ -55,7 +55,10 @@ Developed by:Prathikshaa.S RegisterNumber:24007902
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/user-attachments/assets/b83d3cc3-4291-4fc5-91c6-f0c971edbdf7)
+
+![image](https://github.com/user-attachments/assets/7dbcb396-45ff-434b-9169-98e92a9f35f9)
+
+
 
 
 
